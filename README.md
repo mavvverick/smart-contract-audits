@@ -11,6 +11,8 @@ This repository contains comprehensive details and links to audit reports for va
 **Description:**
 reETH is the native gas token to the re.al chain. reETH is 100% backed by LSTs (liquid staking tokens backed by Ethereum liquid staking protocols such as Lido, Rocketpool etc) in the native bridge, so that all ETH bridged to re.al earns yield on the chain.
 
+[Repo link](https://github.com/re-al-Foundation/real-ether)
+
 **Audit Reports:**
 
 - [Hacken Audit Report](https://hacken.io/audits/re-al/sca-re-al-rwa-real-ether-apr2024/)
@@ -22,6 +24,8 @@ reETH is the native gas token to the re.al chain. reETH is 100% backed by LSTs (
 
 **Description:**  
 Real DAI is a rebase-enabled token designed on the Real Network native bridge between Ethereum and the re.al chain, providing a rebase mechanism for users' Dai holdings.
+
+[Repo link](https://github.com/re-al-Foundation/real-dai)
 
 **Audit Reports:**
 
